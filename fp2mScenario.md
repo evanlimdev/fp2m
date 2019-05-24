@@ -1,7 +1,9 @@
 
 # AI fp2m Service & Library
-제목 : 얼굴을 가린 사진 : face bound picture to masking
-작성자 : 임휘준
+
+## 작성
+* 제목 : 얼굴을 가린 사진, face bound picture to masking
+* 작성자 : 임휘준
 
 ## 최초 서비스 타겟
 * aifc 커뮤니티 소모임 사진
